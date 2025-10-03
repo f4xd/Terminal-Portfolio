@@ -6,7 +6,7 @@ const CONFIG = {
   socials: [
     { name: "GitHub", url: "https://github.com/f4xd" },
     { name: "LinkedIn", url: "https://linkedin.com/in/" },
-    { name: "Email", url: "fouedfoued961@gmail.com" }
+    {  name: "Email", url: "mailto:fouedfoued961@gmail.com" }
   ],
   projects: [
     { title: "VisitALGERIA", desc: "Tourism site — Node.js + React", url: "https://github.com/f4xd/visitalgeria" },
